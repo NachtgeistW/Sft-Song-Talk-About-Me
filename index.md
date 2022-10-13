@@ -1,123 +1,43 @@
 ---
 layout: default
 ---
+<p align="center">
+  <a href="https://twitter.com/Yorin_NW">
+    Twitter · 
+  </a>
+  <a href="https://space.bilibili.com/2138390911">
+    Bilibili · 
+  </a>
+  <a href="https://www.youtube.com/channel/UCHfa-icMAnhEueR-5_PQNrQ">
+    Youtube
+  </a>
+</p>
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+你好，这里夜轮 / I'm Nightwheel / 夜輪です > <
 
-[Link to another page](./another-page.html).
+I'm a Vocal Synth and SoftwareTalk（ソフトウェアトーク）fan. Also, I'm a cover artist, a SoftwareTalk theathe and game live uploader.
 
-There should be whitespace between paragraphs.
+Chinese and English is OK. I know a little about Japanese, but I don't have the ability to communicate and need to use machine translator. If you would like to contact, please use Chinese or English.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+You can find more detailed infomation in the below link.
 
-# Header 1
+[More](./English-intro.html)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+我是个歌声与语音合成爱好者。另外，我也做些翻调、投稿SoftwareTalk剧场与实况。
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+我能使用的语言有中文与英语。我懂一点日语，但没有对话的能力，需要借助机器翻译。如果想与我联络，请使用中文或英语。
 
-### Header 3
+你可以在下面的链接中找到更多关于我的信息。
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+[更多](./Chinese-intro.html)
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## 声库与DAW / Voicebanks and DAW
 
-#### Header 4
+[full list](./voicebanks-and-daw.html)
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## 联络 / contact
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+- [nightwheel@qq.com](mailto:nightwheel@qq.com)
+- DM on Twitter[@Yorin_NW](https://twitter.com/Yorin_NW)
