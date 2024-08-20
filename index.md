@@ -45,5 +45,4 @@ You can find more detailed infomation in the below link.
 
 ## 联络 / contact
 
-- [nightwheel@qq.com](mailto:nightwheel@qq.com)
 - DM on Twitter[@Yorin_NW](https://twitter.com/Yorin_NW)
