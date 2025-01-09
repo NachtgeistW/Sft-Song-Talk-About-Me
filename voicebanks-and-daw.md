@@ -12,7 +12,7 @@ Below are my purchased voice libraries (listed by software name and purchased da
 
 ### Song
 
-**▶ CeVIO AI ◀**
+**▶ CeVIO AI & VoiSona ◀**
 
 - IA AI
 - IA AI English
@@ -33,11 +33,12 @@ Below are my purchased voice libraries (listed by software name and purchased da
 - 星尘infinity
 - 沨漪
 - Mai
+- Ryo
 
 **▶ VOCALOID ◀**
 
 - IA
-    - IA 一周年記念盤
+    - IA 一周年記念盤 (Signed by ねじ式、emonloid & *Luna）
 - IA ROCKS
 
 ### Talk
@@ -50,15 +51,17 @@ Below are my purchased voice libraries (listed by software name and purchased da
 - 結月ゆかり，結月ゆかり 雫
 - 結月ゆかり 凪
 - 紲星あかり，紲星あかり 蕾
+- v_flower
 
-**▶ CeVIO AI ◀**
+**▶ A.I.VOICE 2 ◀**
+
+- 伊織弓鹤
+
+**▶ CeVIO AI & VoiSona Talk ◀**
 
 - IA AI
 - ONE AI
-
-**▶ Gynoid Talk ◀**
-
-- v_flower
+- 双葉湊音
 
 **▶ VOICEPEAK ◀**
 
@@ -68,7 +71,7 @@ Below are my purchased voice libraries (listed by software name and purchased da
 
 **▶ DAW ◀**
 
-- Ableton Live 11 Standard
+- Ableton Live 12 Standard
 
 **▶ Plugins ◀**
 
@@ -80,11 +83,9 @@ Below are my purchased voice libraries (listed by software name and purchased da
     - Vocal Doubler
 - SYNTHOGY
     - Ivory II Grand Pianos
-- Xfer Records
-    - OTT
 - Ymck
     - Magical 8bit Plug 2
 
-2022.10.24
+2025.01.09
 
 [BACK](./)
