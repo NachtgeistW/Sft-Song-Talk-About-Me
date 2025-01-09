@@ -55,8 +55,13 @@ Aside from music, I love *How to Train Your Dragon* series, music rhythm games a
 
 ### Vocal Editing for Original Songs
 
-- Classified
-- Classified
+**2024**
+
+- 雪降り \~雪が降っている\~┊結月ゆかり麗 <br>[哔哩哔哩](https://www.bilibili.com/video/BV1D66hY7E1C) · [ニコニコ](https://www.nicovideo.jp/watch/sm44521371) · [Youtube](https://www.youtube.com/watch?v=UNtAIosqxJo)
+
+**2023**
+  
+- 今年も「雪降り、メリクリ」目指して頑張ります！！┊結月ゆかり麗 <br>[哔哩哔哩](https://www.nicovideo.jp/watch/sm42018153) · [ニコニコ](https://www.nicovideo.jp/watch/sm42018153) · [Youtube](https://www.youtube.com/watch?v=N7_N714BPJw)
 
 ### Song COVERs
 
